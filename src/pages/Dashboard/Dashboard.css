@@ -1,0 +1,13 @@
+.dashboard {
+  max-width: 1200px;
+  width: 90%;
+  margin: 30px auto;
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center; */
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  row-gap: 20px;
+}

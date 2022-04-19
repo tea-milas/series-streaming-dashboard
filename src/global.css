@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+main section {
+  width: 90%;
+  max-width: 1200px;
+}

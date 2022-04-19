@@ -1,0 +1,14 @@
+.poster {
+  width: 220px;
+  justify-self: center;
+  cursor: pointer;
+}
+
+.poster--landscape {
+  max-width: 250px;
+  width: auto;
+  justify-self: start;
+  align-self: stretch;
+  cursor: default;
+  margin: 20px 0;
+}

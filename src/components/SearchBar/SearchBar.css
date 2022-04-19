@@ -1,0 +1,22 @@
+.search {
+  position: relative;
+  width: 200px;
+  display: flex;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.search_input {
+  width: 100%;
+  padding-left: 30px;
+  border-radius: 50px;
+  border: 1px solid #333;
+}
+
+.search_button {
+  position: absolute;
+  left: 0;
+  font-size: 1em;
+  background-color: transparent;
+  border: none;
+}
